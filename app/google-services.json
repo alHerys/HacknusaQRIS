@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808936113002",
+    "project_id": "hacknusa-1e7c2",
+    "storage_bucket": "hacknusa-1e7c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808936113002:android:2a725fafde2e0870e65b13",
+        "android_client_info": {
+          "package_name": "com.pamt.hacknusaqris"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjkovl1nhBazshn--kQnBzSljvr7NUtg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
